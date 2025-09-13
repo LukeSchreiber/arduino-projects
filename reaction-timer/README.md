@@ -68,4 +68,3 @@ The game measures how fast you can react to a random LED signal, then shows your
 https://x.com/LukeOlympus/status/1966656179829960808
 ---
 
-## 📂 Repo Structure
